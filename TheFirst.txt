@@ -1,0 +1,7 @@
+// Remote-Repo
+//This object was created to print "Hello World !!!!!" using c++ language
+#include <iosream>
+void main ()
+{
+cout<<"Hello World !!!!!" <<endl;
+}
