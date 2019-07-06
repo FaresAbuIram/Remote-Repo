@@ -37,6 +37,6 @@ int main()
 /* faris
 Yes my brother, I can
 The problem can't solved because the variable phoneNumber is defined as int , that is the problem
-it is must defined as string
+it  must defined as string
   Welcome 🙃🙂 
 */ 
