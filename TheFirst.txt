@@ -1,7 +1,7 @@
 // Remote-Repo
 //This code was created to print "Hello World !!!!!" using c++ language
 #include <iosream>
-using namespce std;
+using namespace std;
 void main ()
 {
 cout<<"Hello World !!!!!" <<endl;
