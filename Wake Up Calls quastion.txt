@@ -1,4 +1,4 @@
-/*
+﻿/*
 
 This program should receive two input line. The first line is an integer N  (1≤N≤1000). The second line of input is a ten digit string PhoneNumber, and it should print the PhoneNumber N times in single line, each line should be in this format "Call: PhoneNumber"
 Input Sample:
@@ -21,11 +21,12 @@ Mr Faris, Could you help mw to have an Accepted ?
 */
 
 # include <iostream>
+// add the library of string
 using namespace std;
  
 int main()
 {
-    int numOfWakingUp, phoneNumber;
+    int numOfWakingUp, phoneNumber; // change the phoneNumber from int to string 
     cin >> numOfWakingUp >> phoneNumber;
     while(numOfWakingUp--){
         cout << "Call: " << phoneNumber << '\n'; // this output format as requested by the user
@@ -33,3 +34,9 @@ int main()
     
     return 0;
 }
+/* faris
+Yes my brother, I can
+The problem can't solved because the variable phoneNumber is defined as int , that is the problem
+it is must defined as string
+  Welcome 🙃🙂 
+*/ 
