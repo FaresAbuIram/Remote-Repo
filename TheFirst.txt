@@ -1,6 +1,7 @@
 // Remote-Repo
-//This object was created to print "Hello World !!!!!" using c++ language
+//This code was created to print "Hello World !!!!!" using c++ language
 #include <iosream>
+using namespce std;
 void main ()
 {
 cout<<"Hello World !!!!!" <<endl;
@@ -10,4 +11,7 @@ cout<<"Hello World !!!!!" <<endl;
  Amir Altakroori 
 
  Printing Hello World is a very complicated program; I adviced you to rewrite it in an extrenal function
+*/
+/*faris
+HAHAHAHAHAHAHAHAHHAHAHAHAHAH
 */
