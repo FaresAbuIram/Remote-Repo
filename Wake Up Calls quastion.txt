@@ -1,6 +1,17 @@
 /*
 
 This program should receive two input line. The first line is an integer N  (1≤N≤1000). The second line of input is a ten digit string PhoneNumber, and it should print the PhoneNumber N times in single line, each line should be in this format "Call: PhoneNumber"
+Input Sample:
+5
+0798888888
+
+Output Sample:
+Call: 0798888888
+Call: 0798888888
+Call: 0798888888
+Call: 0798888888
+Call: 0798888888
+
 
 This is the source of the problem 
 https://codeforces.com/group/BDIXyZZHhT/contest/243855/problem/A1
