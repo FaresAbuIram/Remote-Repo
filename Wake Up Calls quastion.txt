@@ -26,7 +26,8 @@ using namespace std;
  
 int main()
 {
-    int numOfWakingUp, phoneNumber; // change the phoneNumber from int to string 
+    int numOfWakingUp;
+    string phoneNumber; 
     cin >> numOfWakingUp >> phoneNumber;
     while(numOfWakingUp--){
         cout << "Call: " << phoneNumber << '\n'; // this output format as requested by the user
