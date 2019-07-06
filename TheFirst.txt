@@ -5,3 +5,9 @@ void main ()
 {
 cout<<"Hello World !!!!!" <<endl;
 }
+
+/*
+ Amir Altakroori 
+
+ Printing Hello World is a very complicated program; I adviced you to rewrite it in an extrenal function
+*/
