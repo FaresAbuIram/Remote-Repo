@@ -18,7 +18,6 @@ https://codeforces.com/group/BDIXyZZHhT/contest/243855/problem/A1
 
 I tried to solve it but I got Wrong Answer...
 Mr Faris, Could you help mw to have an Accepted ? 
-
 */
 
 # include <iostream>
