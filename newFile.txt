@@ -7,11 +7,16 @@ int main()
 {
        int numberOne ,numberTwo;
       cin>>numberOne>>numberTow;
-       cout<<"The sum of the two numbers is : " << summationOfTwoIntNum(numberOne,numberTow)
-              <<"The multiplication of the two numbers is : " << multiplicationOfTwoIntNum(numberOne,numberTow)
+       cout<<"The sum of the two numbers is : " << summationOfTwoIntNum(numberOne,numberTwo)
+              <<"The multiplication of the two numbers is : " << multiplicationOfTwoIntNum(numberOne,numberTwo)
               <<endl;
 
 
 
           return 0 ;
 }
+ int summationOfTwoIntNum(numberOne,numberTwo)
+{
+    return (numberOne+numberTwo); 
+}
+
