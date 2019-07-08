@@ -15,7 +15,7 @@ int main()
 
           return 0 ;
 }
- int summationOfTwoIntNum(numberOne,numberTwo)
+ int summationOfTwoIntNum(int numberOne, int numberTwo)
 {
     return (numberOne+numberTwo); 
 }
